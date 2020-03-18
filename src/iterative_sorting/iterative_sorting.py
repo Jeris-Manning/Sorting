@@ -23,7 +23,7 @@ def selection_sort( arr ):
 
     return arr
 
-print(selection_sort(pick_me))
+# print(selection_sort(pick_me))
 
 # TO-DO:  implement the Bubble Sort function below
 def bubble_sort( arr ):
